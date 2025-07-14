@@ -27,4 +27,5 @@
 - Kaonashi
 - pitch-black blackie
 - Ashitaka
+- ponyo
   
