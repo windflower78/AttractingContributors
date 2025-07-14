@@ -3,3 +3,4 @@
 # List of place
 - Pom Pom Purin
 - Hello Kitty
+- Kuromi
